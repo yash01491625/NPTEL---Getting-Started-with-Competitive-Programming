@@ -1,0 +1,1 @@
+{"name":"Local: ppa","url":"/home/yashmalviya/Desktop/nptel/Week-10/ppa.cpp","tests":[{"id":1729995938241,"input":"1\n4\n6 -5 7 -3\n3\n2 3 -4 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/yashmalviya/Desktop/nptel/Week-10/ppa.cpp","group":"local","local":true}
